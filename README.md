@@ -1,6 +1,8 @@
 # CardioVascular_disease_Pandas_cleaning
 Using Pandas and Stats to gain insights
 
+**View the Presentation.pdf to see insights about the project**
+
 # (Healthcare)
 # Increasing our understanding of Cardiovascular disease mortality risks and relationship with Social determinants.
 
